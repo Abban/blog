@@ -7,10 +7,10 @@
 				"title": "Notebook",
 				"url": "notebook"
 			},
-			"second-category": {
+			"games-development": {
 				"type": "category",
-				"title": "Second Category",
-				"url": "second-category"
+				"title": "Games Development",
+				"url": "games-development"
  			},
 			"http://google.ie": {
 				"type": "external",
