@@ -1,0 +1,48 @@
+{
+	"navigation": {
+		"type": "manual",
+		"items": {
+			"notebook": {
+				"type": "category",
+				"title": "Notebook",
+				"url": "notebook"
+			},
+			"second-category": {
+				"type": "category",
+				"title": "Second Category",
+				"url": "second-category"
+ 			},
+			"http://google.ie": {
+				"type": "external",
+				"title": "External",
+				"url": "http://google.ie"
+			}
+		}
+	},
+
+	"sidebar": {
+		"type": "posts",
+		"category": "notebook"
+	},
+
+	"footer": {
+		"type": "manual",
+		"items": {
+			"twitter": {
+				"type": "external",
+				"title": "a",
+				"url": "http://twitter.com/abbandunne"
+			},
+			"github": {
+				"type": "external",
+				"title": "b",
+				"url": "http://github.com/abban"
+			},
+			"email": {
+				"type": "external",
+				"title": "c",
+				"url": "mailto:&#105;&#110;&#102;&#111;&#064;&#097;&#098;&#097;&#110;&#100;&#111;&#110;&#046;&#105;&#101;"
+			}
+		}
+	}
+}

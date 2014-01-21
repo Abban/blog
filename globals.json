@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "title": "Web and Mobile Development in Berlin and Dublin",
+        "description": "Web and Mobile Development in Berlin and Dublin"
+    },
+    "template_url": "{{base_url}}\/templates\/abandon",
+    "assets_url": "{{template_url}}\/assets",
+    "total_posts": 2,
+    "total_published": 2
+}
