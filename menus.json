@@ -6,16 +6,6 @@
 				"type": "category",
 				"title": "Notebook",
 				"url": "notebook"
-			},
-			"games-development": {
-				"type": "category",
-				"title": "Games Development",
-				"url": "games-development"
- 			},
-			"http://google.ie": {
-				"type": "external",
-				"title": "External",
-				"url": "http://google.ie"
 			}
 		}
 	},
